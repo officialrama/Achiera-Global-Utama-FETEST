@@ -1,6 +1,6 @@
 **FrontEnd TEST PT Achiera Global Utama** 
 
-KETERANGAN : 3 soal tersebut disatukan menjadi 1 project saja, tinggal dipilih mau lihat soal nomor berapa di dashboardnya
+KETERANGAN : 3 soal tersebut disatukan menjadi 1 project saja, untuk hasilnya tinggal dipilih di dashboardnya tergantung nomor soalnya
 
 Cara menjalankannya
 
